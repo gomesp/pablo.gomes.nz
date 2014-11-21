@@ -1,65 +1,19 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Pablo&#39;s blog : ">
+<div class="home">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    <title>Pablo&#39;s blog</title>
-  </head>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/gomesp/pablo.gomes.nz">View on GitHub</a>
-
-          <h1 id="project_title">Pablo&#39;s blog</h1>
-          <h2 id="project_tagline"></h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/gomesp/pablo.gomes.nz/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/gomesp/pablo.gomes.nz/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <p>Hi #NZSecretSanta! I have 2 lovely kids: a 5 (and a half) year old boy (Lucas) and a 3 year old girl (Malou). Could you make them believe in Santa please?</p>
-
-<p>My son loves anything that goes fast. And he just discovered the world of Star Wars. He loves super-heroes, specially the Hulk. But he also loves Superman, Spider-man, Iron-man. And he's also quite a bookworm.</p>
-
-<p>My daughter is Dora's biggest fan in the entire world. Anything Dora related will get much love and plenty of smiles.</p>
-
-<p>Thanks for making my kids believing in Santa for a little longer. That's the best present I could get. :) </p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Pablo&#39;s blog maintained by <a href="https://github.com/gomesp">gomesp</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-681782-12");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-
-  </body>
-</html>
+</div>

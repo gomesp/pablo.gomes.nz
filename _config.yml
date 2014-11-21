@@ -1,0 +1,13 @@
+# Site settings
+title: pa.blog
+email: pablo@gomes.nz
+description: > # this means to ignore newlines until "baseurl:"
+  Father of two, husband of one. I like things that start with a 'P': Programming, Photography, "Phootball".
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pablo.gomes.nz" # the base hostname & protocol for your site
+twitter_username: pablogl
+github_username:  gomesp
+
+# Build settings
+markdown: kramdown
+timezone: Pacific/Auckland
