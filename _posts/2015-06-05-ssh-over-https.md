@@ -9,8 +9,8 @@ There are hosts that allow SSH connection via the HTTPS port 443. Simply edit th
 
 ```
 Host github.com
-  Hostname ssh.github.com
-  Port 443
+    Hostname ssh.github.com
+    Port 443
 ```
 
 [Source][1].
