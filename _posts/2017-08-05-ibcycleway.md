@@ -17,7 +17,7 @@ Don't ask the council to build cycling infrastructure to build it for me. I am (
 
 My 5 year old daughter, who just learned how to ride without the training wheels. My 8 year old son who loves to go on Mountain Bike trails with me. My mum who loves biking but is terrified of the traffic. They all love cycling. And they are all vulnerable riders when they are on the road. However, they are also hazards for pedestrians when they're cycling on footpaths.
 
-![Cycleway Design Options](/assets/kids-bikes.png)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lets see how smooth the bypass ramps are. Tick of approval from this little rider!<a href="https://twitter.com/IBCycleWay">@IBCycleWay</a> <a href="https://twitter.com/hashtag/bikeWgth?src=hash">#bikeWgth</a> <a href="https://twitter.com/pablogl">@pablogl</a> <a href="https://t.co/066C9Up4vk">pic.twitter.com/066C9Up4vk</a></p>&mdash; Brevet Specific (@AxleRyde) <a href="https://twitter.com/AxleRyde/status/674819152591192064">December 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My vision for Wellington is for an inclusive city, with [complete streets](https://smartgrowthamerica.org/program/national-complete-streets-coalition/what-are-complete-streets/) that offer multiple transport options including active transport (i.e. cycling and walking facilities) for all ages and all abilities. 
 
