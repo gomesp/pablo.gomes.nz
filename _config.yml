@@ -10,3 +10,4 @@ github_username:  gomesp
 # Build settings
 markdown: kramdown
 timezone: Pacific/Auckland
+google_analytics: UA-681782-12
