@@ -4,7 +4,6 @@ title:  "A Bike Encounter in Three Acts"
 date:   2018-05-16
 categories: 
 ---
-# A Bike Encounter in Three Acts
 
 Transport economists, behavioural psychologists, engagement strategists, city councillors – you can go home now, the kids get it!
 
