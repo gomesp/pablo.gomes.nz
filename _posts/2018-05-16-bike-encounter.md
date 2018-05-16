@@ -26,12 +26,19 @@ I thought that was the last time I would see funny helmet lady but I was mistake
 At that moment, I had a live experience to show to my kids on why I chose to ride my bike instead of driving: It didn’t matter how fast my car could go, I would still get caught in traffic, worry about finding parking and then have to walk the final part to my destination. The funny helmet lady, on the other hand, could cycle around the obstacles (i.e. cars) and bike from “door to door”. Besides, she was exercising and not polluting the planet. It was a great teaching moment, I just did not realise that I was the one getting a lesson. Here’s how our dialogue went:
 
 > Me: Look at the funny helmet lady, she is getting to the CBD as fast as we are.
+
 > Mr. Nine: Yeah, if there were cycleways to the city we could bike to our holiday programme.
+
 > Ms. Six: And people would be jealous (laughs)!
+
 > Mr. Nine: And if we make them jealous, more people would ride their bikes!
+
 > Ms. Six: We should ask the mayor to build more cycleways so we can ride everywhere!
+
 > Mr. Nine: And then less people would drive.
+
 > Ms. Six: Yeah! And if we’re riding on a cycleway and there are no cars, we won’t need a helmet!
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We would drive past her and she’d catch up at the red light. I do the same cycling to work with other cars, so I used the event to show to them why bikes are sometimes faster and more convenient than cars. 2/n</p>&mdash; Pablo (@pablogl) <a href="https://twitter.com/pablogl/status/986854371618013185?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
