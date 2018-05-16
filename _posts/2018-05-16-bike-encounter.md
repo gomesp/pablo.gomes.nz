@@ -69,6 +69,10 @@ They get excited. Ms. Six wanted to roll down the window and wave to her (unfort
 
 > -- Mr. Nine: Because she’s RIDING A BIKE! DUH! 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We saw the funny helmet lady today again.<br><br>Today’s dialogue was:<br><br>Ms6: She looks so happy!<br>Mr9: yeah, and she won’t be late for her work.<br>Me: Why?<br>Mr9: Because she’s riding a bike! Duh! 🙄 <br><br>😂 <a href="https://t.co/O1pBDNrulV">https://t.co/O1pBDNrulV</a></p>&mdash; Pablo (@pablogl) <a href="https://twitter.com/pablogl/status/988528191701630976?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Act Three: The funny helmet lady has a name
 
 The school holidays were over. We are back to our routine: ride to school with the kids, then off to work. I am in Berhampore again when all of a sudden someone rides past me up the hill on Adelaide Road. I looked ahead and saw the same white e-bike with a flower pattern bike bag on the back and the funny helmet with the googly eyes. Yes, it was the funny helmet lady!
