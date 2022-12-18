@@ -13,6 +13,10 @@ markdown: kramdown
 timezone: Pacific/Auckland
 google_analytics: UA-681782-12
 
+include: [ "/.well-known" ]
+exclude: 
+  - server.sh
+
 plugins:
   - jekyll/mastodon_webfinger
 
