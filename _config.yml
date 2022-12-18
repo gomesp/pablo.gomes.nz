@@ -11,3 +11,10 @@ github_username:  gomesp
 markdown: kramdown
 timezone: Pacific/Auckland
 google_analytics: UA-681782-12
+
+plugins:
+  - jekyll/mastodon_webfinger
+
+mastodon:
+  username: pablo
+  instance: mastodon.nz
