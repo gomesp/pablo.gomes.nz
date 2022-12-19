@@ -11,8 +11,10 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a rel="author" href="/">{{ page.author }}</a></span></span>
+      {%- endif -%}
+      {{ page.author.name | jsonify }}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
