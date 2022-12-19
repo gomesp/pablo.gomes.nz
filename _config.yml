@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: pa.blog
+author: Pablo Gomes Ludermir
 email: pablo@gomes.nz
 description: > # this means to ignore newlines until "baseurl:"
-  Father of two, husband of one.
+  Father of two, husband of one. The right number of bikes to have is N+1. Mix of 🚲, 🎮, tech and climate action.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pablo.gomes.nz" # the base hostname & protocol for your site
 github_username:  gomesp
