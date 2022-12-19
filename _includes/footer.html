@@ -39,9 +39,10 @@
   </div>
 
   <span class="h-card" style="display: none;">
-    <a rel="me" href="/">{{ site.author | escape }}</a>
+    <a rel="me" class="u-url u-uid" href="/">{{ site.author | escape }}</a>
     <a class="u-url" href="acct:pablo@pablo.gomes.nz"></a>
     <img class="u-photo" src="/assets/avatar.png" />
+    <p class="p-note">{{- site.description | escape -}}</p>
   </span>
 
 </footer>
