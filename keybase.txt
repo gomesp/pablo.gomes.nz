@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gomesp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pablo.gomes.nz
+  * I am gomesp (https://keybase.io/gomesp) on keybase.
+  * I have a public key with fingerprint F801 0D19 6002 7FB7 B051  049E 9C64 D5F2 F1F2 E192
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f8010d1960027fb7b051049e9c64d5f2f1f2e192",
+            "host": "keybase.io",
+            "key_id": "9c64d5f2f1f2e192",
+            "kid": "010177e619b168304e7b7269c4552f8233287c44d8703cdbb95dfa945af4ef6873720a",
+            "uid": "833d312a47a5b0b356f9f137335a9500",
+            "username": "gomesp"
+        },
+        "service": {
+            "hostname": "pablo.gomes.nz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421756218,
+    "expire_in": 157680000,
+    "prev": "ff190fcf744846dcd441e16442743e80deb2cb3792618fd1941347184ae9e105",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJtSBRBGMdPS6uDKLk++EEyNiItvWZ2Znd2ryC/RGFECb1J6rUvM+eq
+7V57d1amFRXVBUVBphUUKiJokUgh1HGolCAGSZiaFEX0An2JosAKpFmxb82Xh3me
+3/8/8zwzT5Yu8Pkzqh4Gft/XOs5kjA6WJHy701tDxwXdMY8JPNbSucAsO0LdqGvZ
+cSEkMAVAYEJVBkAkTCc6kCDAKlUNGZsSExlkIoWqKBQJ1U7MU3AbXYvRoOXwHN+E
+LZNn/8PXzhW4PSSEylDVoawggCnRiSirBpYkkSkiQqJCDIxNhQBkmLquSibTVCxp
+DFMmKwQREWjcLjFnpyBkIihqmGiSDnQkyUxlEBGEJE2VAPDAGHVt7RDldMQ5RGNR
+oalI4Ll6y6DeALw+5utRTa9zgnNU0G7g2qjrxB3DqeO16ng8GvKk8WNRjz1C9fC8
+S1i3bJOPkQvqqRuzHFsIQU4accuzhViERJJFqBQJ9GjUcmnY8giJyArgyzuG1nvD
+Z1AFzGAEYwXLpmFiDCmUMRYJRlQBJtVFQ0dEFWWoMP5KGCJMoII1qlIIJMHr67Dt
+CCGVX1OLcMuYFbG1eMKlQtPQQMVCX4bfl52V6X0En3/J8n/f47W2aBbdmqiCF474
+r/RmrZ39lOwumnjc0pmcmU2Nfw61pi7OJNfc+P6t/3pZfvm+0o6h8h85u5q1gVGr
+Yqpq+kv+u4aBdGLmxKuuPP/Z1M62yk2bSyoTPfGuS0M7PlxeNVxXqk/lbWtOv/m8
+zpfV7gafv120M3Dwp5x9smxxYOXgyO0NzuSbB2OpK++vnk6xHMFq6Hfv4LzYr57k
+3gNSUjwXXLH5Zs2zmfzOgraefY9Klk2SNdKp5o9Lago39hX3ZRaPj2+veVqY3fKy
+f8/XQGb28Pnp1Y0jfxp+txaA2d4NbaUTLahN2jiW3t9dP6FMBwruJV4MXcv1a+vt
+xsStwrvtW3KL/wKEXSVB
+=Hjgq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gomesp
+
+==================================================================
+
