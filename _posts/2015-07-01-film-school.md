@@ -3,7 +3,6 @@ layout: post
 author: pablo
 title:  "Martin Scorsese's film school"
 date:   2015-07-01
-categories:
 ---
 [Link for my bucket list.](http://cinearchive.org/post/95205731750/the-story-goes-like-this-young-filmmaker-colin).
 

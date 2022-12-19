@@ -3,7 +3,6 @@ layout: post
 author: pablo
 title:  "Goodbye Twitter, Hello Fediverse!"
 date:   2022-12-19 16:43:37 +1300
-categories: 
 ---
 
 The recent events happening at Twitter have put me off the platform, at least for now. 

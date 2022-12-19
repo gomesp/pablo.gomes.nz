@@ -14,6 +14,9 @@ layout: default
         {% assign author = site.data.author[page.author] %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span rel="author" class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
       {%- endif -%}
+      {%- if page.categories -%}
+        &nbsp;• <span class="p-category" itemprop="name">{{ page.categories }}</span>
+      {%- endif -%}
     </p>
   </header>
 
