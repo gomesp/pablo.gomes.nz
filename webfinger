@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /.well-known/webfinger-test
+---
+{
+  "subject": "acct:blah@blah.com",
+  "aliases": [
+    "https://blah.com/@blah",
+    "https://blah.com/users/blah"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://blah.com/@blah"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://blah.com/users/blah"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodon.nz/authorize_interaction?uri={uri}"
+    }
+  ]
+}
