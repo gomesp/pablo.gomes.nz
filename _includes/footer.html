@@ -1,4 +1,4 @@
-<footer class="site-footer h-card">
+<footer class="site-footer">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
@@ -14,10 +14,17 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-            <li>              
-              <img class="u-photo" src="/assets/avatar.png" />
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
             </li>
-          </ul>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -30,5 +37,12 @@
     </div>
 
   </div>
+
+  <span class="h-card" style="display: none;">
+    <a rel="me" href="/">{{ site.author | escape }}</a>
+    <a class="u-url" href="acct:pablo@pablo.gomes.nz"></a>
+    <img class="u-photo" src="/assets/avatar.png" />
+    <img class="u-featured" src="/assets/featured.jpg" />
+  </span>
 
 </footer>
