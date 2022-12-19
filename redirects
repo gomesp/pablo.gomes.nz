@@ -1,2 +1,6 @@
+---
+layout: null
+permalink: /_redirects
+---
 /.well-known/host-meta https://fed.brid.gy/.well-known/host-meta 302
 /.well-known/webfinger https://fed.brid.gy/.well-known/webfinger 302
