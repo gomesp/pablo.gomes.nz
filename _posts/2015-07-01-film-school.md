@@ -1,5 +1,6 @@
 ---
 layout: post
+author: pablo
 title:  "Martin Scorsese's film school"
 date:   2015-07-01
 categories:

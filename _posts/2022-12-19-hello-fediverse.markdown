@@ -1,5 +1,6 @@
 ---
 layout: post
+author: pablo
 title:  "Goodbye Twitter, Hello Fediverse!"
 date:   2022-12-19 16:43:37 +1300
 categories: 

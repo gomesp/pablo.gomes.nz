@@ -1,5 +1,6 @@
 ---
 layout: post
+author: pablo
 title:  "A Bike Encounter in Three Acts"
 date:   2018-05-16
 categories: 

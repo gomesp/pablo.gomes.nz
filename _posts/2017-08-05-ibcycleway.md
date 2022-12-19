@@ -1,5 +1,6 @@
 ---
 layout: post
+author: pablo
 title:  "In defense of Wellington's cycling infrastructure"
 date:   2017-08-05
 categories: 
