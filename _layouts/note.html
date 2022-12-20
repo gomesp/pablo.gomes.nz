@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content e-content p-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <header class="post-header">
+    <p class="post-meta">
+      {%- if page.author -%}
+        {% assign author = site.data.author[page.author] %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span rel="author" class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
+      {%- endif -%}
+      &nbsp;on
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+    </p>
+    {%- if page.categories -%}
+    <p class="post-meta">
+      <span class="p-category" itemprop="name">{{ page.categories }}</span>
+    </p>
+    {%- endif -%}
+  </header>
+
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-bridgy-fed" href="https://fed.brid.gy/"></a>
+</article>
